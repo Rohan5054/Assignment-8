@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Can someone with a credit history of 1 and an income of ₹5849 get a loan?",
+    "context": "Gender: Male, Married: No, Education: Graduate, Credit_History: 1, ApplicantIncome: ₹5849, Loan_Status: Y",
+    "response": "Yes. Gender: Male, Married: No, Education: Graduate, Credit_History: 1, ApplicantIncome: ₹5849, Loan_Status: Y"
+  },
+  {
+    "question": "Is a person with credit history 1 and an income of ₹4583 eligible for loan approval?",
+    "context": "Gender: Male, Married: Yes, Education: Graduate, Credit_History: 1, ApplicantIncome: ₹4583, Loan_Status: Y",
+    "response": "Yes. Gender: Male, Married: Yes, Education: Graduate, Credit_History: 1, ApplicantIncome: ₹4583, Loan_Status: Y"
+  },
+  {
+    "question": "Will a female with credit history 1 and income ₹3000 get a loan?",
+    "context": "Gender: Female, Married: No, Education: Not Graduate, Credit_History: 1, ApplicantIncome: ₹3000, Loan_Status: Y",
+    "response": "Yes. Gender: Female, Married: No, Education: Not Graduate, Credit_History: 1, ApplicantIncome: ₹3000, Loan_Status: Y"
+  },
+  {
+    "question": "Can someone with a credit history of 1 and income of ₹2583 get approved?",
+    "context": "Gender: Male, Married: Yes, Education: Graduate, Credit_History: 1, ApplicantIncome: ₹2583, Loan_Status: N",
+    "response": "No. Gender: Male, Married: Yes, Education: Graduate, Credit_History: 1, ApplicantIncome: ₹2583, Loan_Status: N"
+  },
+  {
+    "question": "Can an unmarried graduate female with income ₹6000 and credit history 0 get a loan?",
+    "context": "Gender: Female, Married: No, Education: Graduate, Credit_History: 0, ApplicantIncome: ₹6000, Loan_Status: N",
+    "response": "No. Gender: Female, Married: No, Education: Graduate, Credit_History: 0, ApplicantIncome: ₹6000, Loan_Status: N"
+  },
+  {
+    "question": "Is a graduate male earning ₹4000 with a good credit history eligible for a loan?",
+    "context": "Gender: Male, Married: Yes, Education: Graduate, Credit_History: 1, ApplicantIncome: ₹4000, Loan_Status: Y",
+    "response": "Yes. Gender: Male, Married: Yes, Education: Graduate, Credit_History: 1, ApplicantIncome: ₹4000, Loan_Status: Y"
+  },
+  {
+    "question": "Can a self-employed male with credit history 0 and income ₹5000 get a loan?",
+    "context": "Gender: Male, Married: No, Education: Not Graduate, Credit_History: 0, ApplicantIncome: ₹5000, Loan_Status: N",
+    "response": "No. Gender: Male, Married: No, Education: Not Graduate, Credit_History: 0, ApplicantIncome: ₹5000, Loan_Status: N"
+  }
+]
