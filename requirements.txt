@@ -1,0 +1,25 @@
+# Core libraries
+transformers>=4.40.0
+datasets
+sentence-transformers
+streamlit
+chromadb
+
+# Model training and evaluation
+scikit-learn
+numpy
+pandas
+
+# LangChain (optional, if used in rag_pipeline)
+langchain
+
+# Hugging Face Hub interaction
+huggingface_hub
+python-dotenv
+
+# Streamlit file handling / UI enhancements
+streamlit-option-menu
+streamlit-chat
+
+# Tokenization and progress utilities
+tqdm
